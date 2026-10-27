@@ -68,5 +68,4 @@ Known limitations: no transaction costs or slippage modelled, long-only logic, f
 
 # Author
 
-Ryan James Forrester — BSc Economics and Finance, Leeds Beckett University
-LinkedIn
+Ryan James Forrester — BA Economics and Finance, Leeds Beckett University
